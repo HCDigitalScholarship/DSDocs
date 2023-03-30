@@ -40,6 +40,7 @@ Create a new application: Use the Dokku CLI to create a new application, which w
 - Manage your application: Use the Dokku CLI to manage your application, including scaling the number of containers, viewing logs, and restarting the application.
 
 **Deploying with Dokku**
+
 How to configure your Dokku remote repository for deployment to dev and production. 
 
 1. First, make sure that you have Dokku installed on your server and that you have created a new application using the Dokku CLI.
