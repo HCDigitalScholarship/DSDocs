@@ -6,6 +6,12 @@ Digital scholarship projects are often worked by many people at once, and are pa
 
 This documenation includes a high-level overview of how DS projects should be configured, as well as a basic example project to get you started.
 
+**Contents:**
+
+- [Getting started with sample projects](./SampleProject/GettingStarted.md)
+- [Project index](./Projects.md)
+
+
 ## The Building Blocks
 
 There are a few main components that will be a part of every DS project. You should become familiar with these tools:
