@@ -3,6 +3,7 @@
 This is an index of Haverfod College Digital Scholarship projects, including their development and production server status.
 
 **Last updated: March 30, 2023**
+
 ---
 
 ## Ticha
@@ -16,6 +17,7 @@ This is an index of Haverfod College Digital Scholarship projects, including the
 **Dev Server URL:** https://ticha.dev-ds.haverford.edu/
 
 **Production Server Details:** Currently hosted on Haverford
+
 ---
 
 
@@ -30,6 +32,7 @@ This is an index of Haverfod College Digital Scholarship projects, including the
 **Dev Server URL:** https://qmh.dev-ds.haverford.edu/
 
 **Production Server Details:** Currently hosted on Haverford
+
 ---
 
 
@@ -44,6 +47,7 @@ This is an index of Haverfod College Digital Scholarship projects, including the
 **Dev Server URL:** https://penn-treaty.dev-ds.haverford.edu/
 
 **Production Server Details:** Currently hosted on Digital Ocean
+
 ---
 
 
@@ -58,6 +62,7 @@ This is an index of Haverfod College Digital Scholarship projects, including the
 **Dev Server URL:** https://fastbridge-dev.herokuapp.com/
 
 **Production Server Details:** 
+
 ---
 
 
@@ -72,6 +77,7 @@ This is an index of Haverfod College Digital Scholarship projects, including the
 **Dev Server URL:** 
 
 **Production Server Details:** 
+
 ---
 
 
